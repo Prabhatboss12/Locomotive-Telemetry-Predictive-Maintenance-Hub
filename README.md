@@ -1,7 +1,7 @@
 # Locomotive-Telemetry-Predictive-Maintenance-Hub
 A full-stack SAP Cloud Application Programming (CAP) model application to monitor BNSF locomotive fleet health, automating the detection of critical engine status based on historical telemetry and model performance.
 
-Technical Stack:
+**Technical Stack:**
 
 Backend: Node.js (SAP CAP Framework)
 
@@ -11,7 +11,7 @@ Frontend: SAP Fiori Elements (OData V4)
 
 Development Environment: SAP Business Application Studio (BAS)
 
-Key Features & Logic:
+**Key Features & Logic:**
 
 Automated Risk Modeling: Engineered a Node.js event handler in the service layer that scans incoming telemetry. For specific engine models (e.g., GE ES44C4), the system automatically flags the "Health Status" as Critical, simulating a predictive maintenance risk model.
 
