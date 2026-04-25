@@ -4,8 +4,11 @@ A full-stack SAP Cloud Application Programming (CAP) model application to monito
 Technical Stack:
 
 Backend: Node.js (SAP CAP Framework)
+
 Database: SAP HANA / Core Data Services (CDS)
+
 Frontend: SAP Fiori Elements (OData V4)
+
 Development Environment: SAP Business Application Studio (BAS)
 
 Key Features & Logic:
