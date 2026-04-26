@@ -22,4 +22,3 @@ Enterprise UI: Built a Fiori Elements List Report with integrated filtering, ena
 Scalable Service Layer: Implemented custom OData actions to handle simulated high-temperature triggers, proving the system's ability to integrate with real-world IoT sensors.
 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ca05c173-6a5d-46c4-8302-58074d91e7f0" />
