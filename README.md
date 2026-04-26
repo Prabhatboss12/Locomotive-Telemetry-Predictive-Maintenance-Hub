@@ -25,3 +25,9 @@ Scalable Service Layer: Implemented custom OData actions to handle simulated hig
 
 <img width="1920" height="1037" alt="____" src="https://github.com/user-attachments/assets/21366d94-c48b-494f-9f49-be192f1bd6d6" />
 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9f12948f-0f4c-4f56-b5a1-8f2390ac8bdb" />
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ad8dae46-db09-4965-8de3-fb1150500c0d" />
+
